@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="936" viewBox="0 0 1680 936" role="img" aria-label="Shopping Offers concept illustration">
+<defs><linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ea0024"/><stop offset=".52" stop-color="#d50019"/><stop offset="1" stop-color="#a9001c"/></linearGradient>
+<radialGradient id="light"><stop stop-color="#ff9d9d" stop-opacity=".44"/><stop offset="1" stop-color="#fc5160" stop-opacity="0"/></radialGradient>
+<filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="20" stdDeviation="24" flood-color="#5d0019" flood-opacity=".2"/></filter></defs>
+<rect width="1680" height="936" rx="74" fill="url(#red)"/>
+<circle cx="1390" cy="180" r="460" fill="url(#light)"/><circle cx="260" cy="810" r="320" fill="url(#light)"/>
+<circle cx="1460" cy="780" r="125" fill="none" stroke="#fff" stroke-opacity=".13" stroke-width="34"/>
+<circle cx="280" cy="140" r="80" fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="19"/>
+<path d="M1340 225l26 72 72 25-72 26-26 72-26-72-72-26 72-25z" fill="#fff" opacity=".72"/>
+<path d="M338 535l16 44 44 16-44 16-16 44-16-44-44-16 44-16z" fill="#fff" opacity=".55"/>
+<g filter="url(#shadow)" transform="translate(105 150)"><rect x="0" y="0" width="450" height="630" rx="78" fill="#fff" fill-opacity=".16" stroke="#fff" stroke-opacity=".27" stroke-width="7"/><path d="M110 236h228l-28 261H138l-28-261Z" fill="none" stroke="#fff" stroke-width="30" stroke-linejoin="round"/><path d="M180 245v-69c0-89 117-89 117 0v69" fill="none" stroke="#fff" stroke-width="30" stroke-linecap="round"/><path d="M166 323h116" stroke="#fff" stroke-width="25" stroke-linecap="round" opacity=".55"/></g>
+<g fill="#fff" font-family="Arial, Helvetica, sans-serif"><text x="670" y="368" font-weight="800" font-size="126" letter-spacing="-5">SHOPPING</text><text x="670" y="518" font-weight="800" font-size="126" letter-spacing="-5">OFFERS</text><rect x="670" y="571" width="570" height="7" rx="4" fill="#fff" opacity=".55"/><text x="675" y="642" font-size="38" font-weight="600" opacity=".92">EXPLORE  ·  COMPARE  ·  DECIDE</text><text x="675" y="708" font-size="27" font-weight="400" opacity=".82">Independent design preview</text></g>
+</svg>
